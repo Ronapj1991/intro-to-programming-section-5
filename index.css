@@ -13,3 +13,7 @@ main {
 #reset {
   margin: 20px;
 }
+
+#input-below-limit, #input-above-limit {
+  color: rgba(251, 67, 67, 0.8);
+}
